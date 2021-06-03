@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Londons love, or, the entertainment of the Parliament. Being a true discription of the great and generous welcome, given to the Houses of Lords and Commons on the 19. day of Ian. at Grocers-Hall, 1641. by divers citizens of good quality. Wherein is declared the great and manifold expressions of love betwixt the Lords of Commons. Likewise the Cities protestation both to the King and Parliament, concerning their loyall affections and vnexpressable loves.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88501</idno><idno type="EEBO-CITATION">99871718</idno>
+  <idno type="VID">156353</idno>
+  <idno type="EEBO-PROQUEST">2240951470</idno>
+  
+            <idno type="STC">Wing L2939</idno>
+            <idno type="STC">Thomason E132_1</idno>
+            <idno type="PROQUEST">99871718</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871718e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88501)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156353)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 23:E132[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Londons love, or, the entertainment of the Parliament. Being a true discription of the great and generous welcome, given to the Houses of Lords and Commons on the 19. day of Ian. at Grocers-Hall, 1641. by divers citizens of good quality. Wherein is declared the great and manifold expressions of love betwixt the Lords of Commons. Likewise the Cities protestation both to the King and Parliament, concerning their loyall affections and vnexpressable loves.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156353:1"/>
+            <pb facs="tcp:156353:1"/>
+            <p>LONDONS LOVE, OR, The Entertainment of the PARLIAMENT.</p>
+            <p>Being a true Discription of the great and generous welcome, given to the Houses of Lords and Commons on the 19. day of <hi>Ian.</hi> at Grocers-Hall, 1641. by di<g ref="char:EOLhyphen"/>vers Citizens of good quality.</p>
+            <p>Wherein is declared the great and manifold expressi<g ref="char:EOLhyphen"/>ons of Love betwixt the Lords and Commons.</p>
+            <p>Likewise the Cities <hi>Protestation</hi> both to the KING and PARLIAMENT, concer<g ref="char:EOLhyphen"/>ning their Loyall affections and vnexpressa<g ref="char:EOLhyphen"/>ble Loves.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Thomas.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156353:2"/>
+            <pb facs="tcp:156353:2"/>
+            <head>
+               <hi>Londons</hi> Love, OR, The <hi>Parliaments</hi> Entertainment.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He City as it is rich in treasure, so is it stor'd with a great measure of that chiefest treasure; namely, Love and courteous Generosity being so neere allied to their natures, as Gentility to their bloods, being for the Major part Gentlemen <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rtificiall, as well as Gentlemen naturall though younger brothers who cause their Fathers in<g ref="char:EOLhyphen"/>dulgence to their <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ldest, caused a want of indulgence to<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ards them, their owne studious endeavours are be<g ref="char:EOLhyphen"/>come f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uitfull, so that (though the youngest) they are become the chiefe<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t supporters of their Fathers A<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mes, since Gentility without we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lth staggers like a sicke man not able to support them; therefore, it is a vaine and f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uitlesse judgement, that shall preferre painted Prodigality before naturall industry, can it be a crime, or deserves it a scorne to be fixt in the middle Region, not like <hi>Jcarus</hi> soaring against the Sunne, whose refulgent heare would quickly melt the waxe that Ointments such ambition, then they fall and plunge themselves into a <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erreene <hi>Golgotha,</hi> where sad affliction hourely waits on them, want
+<pb facs="tcp:156353:3"/> grim despayre, and all those megre fiends, that waits on Poverty, every Peasants scorne, each abject slave will thinke himselfe too good to lend a hand to catch a falling Starre, and though a Gentleman of the best blood of <hi>Brittaine</hi> if he want wealth, hee's not so much respected as the poorest Begger, be he ne're so base, if he be worth a shilling, then who can blame these Buds of <hi>Brittaines</hi> hope, if by industrious care they strive to gaine meanes to support their Fames, let those proud gallants, that doe strive to walke like painted Camells (laden with more wealth in one poore suite, then all their estates is worth) scorne honest, thrift and carefull industry, let them embrace sloth, drunkennesse, and lust, and with them poverty, for that must follow, yet let these gentle and much Nobler Plants strive by their honest and industrious Arts to doe themselves good, and their Countrey in scorning those baser abjects that despise the name of Tradesman or of Citizen when spight of their Gen<g ref="char:EOLhyphen"/>tility, and Wit, one Citizen for perfect judgement, Gentry, wealth, may buy a hundred of those broken Gallants, and for a generall welfare will expend more wealth at one poore meeting, then they are, or ever shall be worth, although they beg ten Pattents in a yeare, and after flye for it.</p>
+            <p>A firme example of this was seene in this City on Wednesday last being the 19. day of <hi>Ianuary,</hi> The Lords sitting the day before at Grocers Hall, where divers noble Citizens of good Ranke came and invited them and the House of Commons to a Feast the next
+<pb facs="tcp:156353:3"/> day, which was courteously accepted of the Lords, but the Honourable House of Commons not know<g ref="char:EOLhyphen"/>ing what occasions might happen, they would not promise them, but the next day finding that their in<g ref="char:EOLhyphen"/>gagements to the Jnvitors love was great, they were pleas'd for that present day to wave their proceedings and at the appoynted time they came generally, very few being absent that were resident in the Citie, the Lords likewise were all present (onely two, or rhree, which were Ingag'd about some unexpected affaires, at which time there was express't (to the great joy and comfort of those noble minded Jnvitors) many unexpressable, though voluntary signes of substantiall love, betweene the Lords, and Commons, declaring with sweet a<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ac<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ity, a firme and inseperable union, withall declaring by noble expressions, their cour<g ref="char:EOLhyphen"/>teous acknowledgements to the Citie in gennerall, and to the Jnvitors in particular, so great was their Entertainment, and so free a welcome they received being attended almost by 150. Citizens of good ranke, (being the Invitors) as divers that have Fin'd for Sheriffe, Common Councell men, Merchants, &amp; Tradesmen, of the best ranke and quality, both for wealth, and wisdome.</p>
+            <p>After both Houses were risen from Dinner the Tables were all fill'd with their attendants, well furnished with all sorts of provision, and a large ex<g ref="char:EOLhyphen"/>pression of welcome, made by the Citizans, to them likewise.</p>
+            <pb facs="tcp:156353:4"/>
+            <p>Also Captaine <hi>Laugh<gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>m</hi> and his Company, who then guarded both Houses, were feasted in a most bountifull manner.</p>
+            <p>Such is the love of the City of <hi>London,</hi> to those Worthy Heroes of our times, the Members of Par<g ref="char:EOLhyphen"/>liament, that as they have often expressed to them, they are, and will be alwaies ready, not onely to lay downe their estates, but also their lives in all lawfull wayes to preserve and defend his Majesties Royall per<g ref="char:EOLhyphen"/>sons and theirs, and the Priviledges of Parliament a<g ref="char:EOLhyphen"/>gainst all opposites whatsoever.</p>
+            <p>This great Entertainment and Protestation shewes them to be as truly Noble as rich, and as truely Loy<g ref="char:EOLhyphen"/>all as Loving, since their Providence is not attended with penury, not their bounty with Prodigality, but a Judicious moderation, expressing to the world, that they know as well how to employ we<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lth, as to get it; therefore let not any man that is used to judge of o<g ref="char:EOLhyphen"/>ther mens actions by his owne to r<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e this entertain<g ref="char:EOLhyphen"/>ment a vaine glorious action, lest he incurre to him<g ref="char:EOLhyphen"/>selfe, a condemnation, Repentance can hardly cure, for true Love and zealous Loyalty may be ambitious to expresse it selfe, but it cannot be vaine glory to perfotme any good action, since, a wise man knowes it is regarded in the performance, as doubtlesse theirs will be, since what they have expended in Coyne, they have largely received in Love, having had a large testimony of the Parliaments <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>are and Protecti<g ref="char:EOLhyphen"/>on
+<pb facs="tcp:156353:4"/> of them and their welfares, which to the comfort of all the City, will, no doubt bee largely shewed upon them.</p>
+            <p>Thus have I given you a short yet true Discripti<g ref="char:EOLhyphen"/>on of the Cities glory and Parliaments Love, now J shall leave all true Subjects to follow their exam<g ref="char:EOLhyphen"/>ples, hoping that no man will be backward, to expresse their loves and Loyalty to so gracious a Prince, and so Honourable a Parliament, which strive with their Religious cares to plant a true Religion and a firme p<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce in his Majesties Kingdome, which that they may bri<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g to passe, let all true and Loyall Subjects daily pray to God, to give a blessing upon th<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir Councels and consultations, and let all the people say, </p>
+            <closer>Amen.</closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
